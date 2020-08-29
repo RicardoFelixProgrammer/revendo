@@ -6,6 +6,12 @@ header {
 
 h1 {
     color: rgba(220, 200, 100, 0.9);
-    font-weight: bold";
+    font-weight: bold;
+    font-size: 34px;
+}
 
+.index {
+    position: absolute;
+    left: 10%;
+    top: 9.5;
 }
