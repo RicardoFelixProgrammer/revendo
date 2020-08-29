@@ -1,0 +1,11 @@
+header {
+    width: calc(100% - 20px);
+    height: 200px;
+    background-color: rgba(221, 105, 32, 0.63);
+}
+
+h1 {
+    color: rgba(220, 200, 100, 0.9);
+    font-weight: bold";
+
+}
